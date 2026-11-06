@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-label="Plugin Market">
+  <rect width="24" height="24" rx="5.5" fill="#4D6BFE"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M5 9.6 6.2 4.6h11.6L19 9.6"/>
+    <path d="M5 9.6h14V19.2H5z"/>
+    <path d="M9.8 19.2v-5.1h4.4v5.1"/>
+  </g>
+</svg>
